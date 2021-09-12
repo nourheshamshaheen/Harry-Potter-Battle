@@ -1,2 +1,3 @@
 # Harry-Potter-Battle
-A simulator between the final showdown between Harry Potter and Voldemort using python.
+A simulator between the final showdown between Harry Potter and Voldemort using python.The war starts and the user can input two spells (first one for Harry, second one for Voldemort). Each spell has a certain “effect” value. When a wizard casts a spell, his energy decreases by its effect value. When a wizard receives a spell, he can either be hurt by it (if his spell effect is less than that of the spell he received) and thus decreases his health or it can be useless for him. A wizard dies if his health or energy ends.
+You will be prompted for input until either Voldemort or HP dies.
